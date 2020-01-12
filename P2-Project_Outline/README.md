@@ -7,12 +7,30 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This Web App will allow users to express their Ideas by writting  blog post.
+User can assest popularity of project by number of displayed Vote that has been cast from other users
+Post Owner can interact with other users through Comments.
 ### Features
-Include Features here
+Create Post
+Post Project
+Post may Include Picture and Videos
+Comment on other Project
+Participate in Project and vote
+Vote to support project 
+Access project fan base statistic per location(to be implemented)
+
 ### Technologies
-Include Technologies here
+ASP.NET
+MVC Core
+SQL
+HTML5
+Bootstrap
+Trello
 ### What I'll Have to Learn
-Include what you will need to learn here
+Design UML Diagram
+Bootstrap Basic 
+Connection MVC:Controller // Class/ View
+DataBase Connection
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/LuCjcrCL/pitchit
